@@ -1,5 +1,9 @@
 <html>
 	<body>
+<<<<<<< HEAD
 		<p>zobaczymy co zrobisz teraz</p>
+=======
+<div><div/>
+>>>>>>> frontend
 	</body>
 </html>
